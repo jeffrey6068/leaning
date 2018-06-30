@@ -6,5 +6,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks 
 000000
-4444
-444646
+88888
+dd
+
