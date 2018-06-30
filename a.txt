@@ -4,5 +4,6 @@ Git has a mutable index called stage.
 333333
 Git tracks 
 ddd
+9999
 
 
