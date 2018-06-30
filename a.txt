@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 Git tracks 
 000000
 88888
+dd
