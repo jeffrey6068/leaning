@@ -3,8 +3,3 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 333333
 Git tracks 
-000000
-88888
-dd
-0o9090809890
-
