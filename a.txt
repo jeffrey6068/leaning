@@ -1,4 +1,4 @@
-Git is free software.
+﻿Git is free software.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 333333
@@ -7,4 +7,5 @@ Git tracks
 44
 6666
 第一次提交版本
-第二次提交版本
+修复第一次发版本的紧急bug
+
